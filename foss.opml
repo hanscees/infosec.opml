@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+    <head>
+        <title>Foss linux opensource rss sources</title>
+    </head>
+    <body>
+        <outline text="FOSS-Linux" title="Foss-Linux">
+ 
+ <outline text="2daygeek RSS feed "   
+ xmlUrl="https://www.2daygeek.com/feed/" type="rss" />  
+
+ 
+ <outline text="AlexNogard RSS feed "   
+ xmlUrl="https://alexnogard.com/feed/" type="rss" />  
+
+ 
+ <outline text="Arch Linux RSS feed "   
+ xmlUrl="https://archlinux.org/feeds/news/" type="rss" />  
+
+
+ 
+ <outline text="CentLinux RSS feed "   
+ xmlUrl="https://www.centlinux.com/feeds/posts/default" type="rss" />   
+ <outline text="CloudLinux | Technical Blog RSS feed "   
+ xmlUrl="https://blog.cloudlinux.com/rss.xml" type="rss" />   
+ <outline text="DebugPoint.com RSS feed "   
+ xmlUrl="https://www.debugpoint.com/feed/" type="rss" />   
+ <outline text="Elinux.co.in RSS feed "   
+ xmlUrl="https://www.elinux.co.in/feed/" type="rss" />   
+ <outline text="Elinuxbook RSS feed "   
+ xmlUrl="http://elinuxbook.com/feed" type="rss" />   
+ <outline text="Explore Linux RSS feed "   
+ xmlUrl="https://www.explinux.com/feed" type="rss" />   
+ <outline text="FOSS Linux RSS feed "   
+ xmlUrl="https://www.fosslinux.com/feed" type="rss" />   
+ <outline text="GamersOnLinux - Linux gaming community RSS feed "   
+ xmlUrl="http://www.gamersonlinux.com/forum/portal/forums/-/index.rss" type="rss" />   
+ <outline text="Gaming On Linux RSS feed "   
+ xmlUrl="https://www.gamingonlinux.com/article_rss.php" type="rss" />   
+ <outline text="It&#039;s F.O.S.S. Blog RSS feed "   
+ xmlUrl="https://itsfoss.com/feed/" type="rss" />   
+ <outline text="Kali Linux RSS feed "   
+ xmlUrl="https://www.kali.org/feed/" type="rss" />   
+ <outline text="Kali Linux Hacking Tutorials RSS feed "   
+ xmlUrl="https://www.kalitutorials.net/feeds/posts/default" type="rss" />   
+ <outline text="KaliLinuxIn RSS feed "   
+ xmlUrl="https://www.kalilinux.in/feeds/posts/default" type="rss" />   
+ <outline text="Kenneth Navarro RSS feed "   
+ xmlUrl="https://kennyvn.com/blog/feed/" type="rss" />   
+ <outline text="Kernel Talks RSS feed "   
+ xmlUrl="https://kerneltalks.com/feed/" type="rss" />   
+ <outline text="LWN.net RSS feed "   
+ xmlUrl="https://lwn.net/headlines/newrss" type="rss" />   
+ <outline text="LXer Linux News RSS feed "   
+ xmlUrl="http://lxer.com/module/newswire/headlines.rss" type="rss" />   
+ <outline text="LearnLinux.tv | Youtube RSS feed "   
+ xmlUrl="https://www.youtube.com/feeds/videos.xml?user=JtheLinuxguy" type="rss" />   
+ <outline text="LinOxide - Linux / Opensource HowTos And Tutorials RSS feed "   
+ xmlUrl="https://linoxide.com/feed/" type="rss" />   
+ <outline text="Linux Handbook RSS feed "   
+ xmlUrl="https://linuxhandbook.com/rss/" type="rss" />   
+ <outline text="Linux Hint | Get The Latest Linux and FOSS Tech News RSS feed "   
+ xmlUrl="https://linuxhint.com/feed/" type="rss" />   
+ <outline text="Linux Journal | The Original Magazine of the Linux Community RSS feed "   
+ xmlUrl="http://www.linuxjournal.com/node/feed" type="rss" />   
+ <outline text="Linux Magazine  RSS feed "   
+ xmlUrl="https://www.linux-magazine.com/rss/feed/lmi_full" type="rss" />   
+ <outline text="Linux Master Desk RSS feed "   
+ xmlUrl="https://www.linuxmd.net/feed/" type="rss" />   
+ <outline text="Linux Scoop RSS feed "   
+ xmlUrl="https://linuxscoop.tumblr.com/rss" type="rss" />   
+ <outline text="Linux Security Blog RSS feed "   
+ xmlUrl="https://linuxsecurityblog.com/feed/" type="rss" />   
+ <outline text="Linux Stans RSS feed "   
+ xmlUrl="https://linuxstans.com/feed/rss/" type="rss" />   
+ <outline text="Linux Today | Linux News on Internet Time RSS feed "   
+ xmlUrl="http://www.linuxtoday.com/biglt.rss" type="rss" />   
+ <outline text="Linux Training Academy Blog RSS feed "   
+ xmlUrl="https://www.linuxtrainingacademy.com/blog/feed/" type="rss" />   
+ <outline text="Linux Ubuntu Apps Reviews | Tutorials & HowTos | News RSS feed "   
+ xmlUrl="https://www.linuxandubuntu.com/feed" type="rss" />   
+ <outline text="Linux Uprising Blog RSS feed "   
+ xmlUrl="https://www.linuxuprising.com/feeds/posts/default?alt=rss" type="rss" />   
+ <outline text="Linux for freshers RSS feed "   
+ xmlUrl="https://www.linuxforfreshers.com/feeds/posts/default?alt=rss" type="rss" />   
+ <outline text="Linux notes from DarkDuck RSS feed "   
+ xmlUrl="http://linuxblog.darkduck.com/feeds/posts/default" type="rss" />   
+ <outline text="Linux.com | News for the open source professional RSS feed "   
+ xmlUrl="https://www.linux.com/feed/" type="rss" />   
+ <outline text="LinuxAdmin RSS feed "   
+ xmlUrl="https://linuxadmin.io/feed/" type="rss" />   
+ <outline text="LinuxBuz RSS feed "   
+ xmlUrl="http://feeds.feedburner.com/Linuxbuz" type="rss" />   
+ <outline text="LinuxCloudVPS.com Cloud Hosting Blog RSS feed "   
+ xmlUrl="https://www.linuxcloudvps.com/blog/feed/" type="rss" />   
+ <outline text="LinuxGizmos.com  RSS feed "   
+ xmlUrl="https://linuxgizmos.com/feed/" type="rss" />   
+ <outline text="LinuxInsider RSS feed "   
+ xmlUrl="https://linuxinsider.com/rss-feed" type="rss" />   
+ <outline text="LinuxLinks  RSS feed "   
+ xmlUrl="https://www.linuxlinks.com/feed/" type="rss" />   
+ <outline text="LinuxPlanet RSS feed "   
+ xmlUrl="https://www.linuxtoday.com/biglt.rss?x=1" type="rss" />   
+ <outline text="LinuxTechi | Linux Tutorials & Guide RSS feed "   
+ xmlUrl="https://www.linuxtechi.com/feed/" type="rss" />   
+ <outline text="LinuxWays RSS feed "   
+ xmlUrl="https://linuxways.net/feed/" type="rss" />   
+ <outline text="Lisenet.com  RSS feed "   
+ xmlUrl="https://www.lisenet.com/feed/" type="rss" />   
+ <outline text="Manjaro Linux News RSS feed "   
+ xmlUrl="https://forum.manjaro.org/c/announcements/11.rss" type="rss" />   
+ <outline text="NoobsLab | Ubuntu/Linux News, Reviews, Tutorials, Apps RSS feed "   
+ xmlUrl="https://www.blogger.com/feeds/5398236625900904090/posts/default" type="rss" />   
+ <outline text="OSTechNix - Open Source Technology - Linux And Unix RSS feed "   
+ xmlUrl="https://ostechnix.com/feed/" type="rss" />   
+ <outline text="Phoronix RSS feed "   
+ xmlUrl="http://www.phoronix.com/rss.php" type="rss" />   
+ <outline text="Riba Linux | Youtube RSS feed "   
+ xmlUrl="https://www.youtube.com/feeds/videos.xml?user=TheRibalinux" type="rss" />   
+ <outline text="SUSE Blog RSS feed "   
+ xmlUrl="https://www.suse.com/c/feed/" type="rss" />   
+ <outline text="Slashdot - Linux News for nerds, stuff that matters RSS feed "   
+ xmlUrl="http://rss.slashdot.org/Slashdot/slashdotLinux" type="rss" />   
+ <outline text="Softpedia Linux  RSS feed "   
+ xmlUrl="https://linux.softpedia.com/backend.xml" type="rss" />   
+ <outline text="SparkyLinux RSS feed "   
+ xmlUrl="https://sparkylinux.org/feed/" type="rss" />   
+ <outline text="Sysads.co.uk | Linux tutorials, howtos and step by step guides. RSS feed "   
+ xmlUrl="https://sysads.co.uk/index.xml" type="rss" />   
+ <outline text="Tecmint - Linux Howtos, Tutorials RSS feed "   
+ xmlUrl="https://www.tecmint.com/feed/" type="rss" />   
+ <outline text="The Geek Stuff RSS feed "   
+ xmlUrl="https://www.thegeekstuff.com/feed/" type="rss" />   
+ <outline text="The Linux Foundation  RSS feed "   
+ xmlUrl="https://www.linuxfoundation.org/feed/" type="rss" />   
+ <outline text="The Linux Mint Blog RSS feed "   
+ xmlUrl="http://blog.linuxmint.com/?feed=rss2" type="rss" />   
+ <outline text="The Ultimate Linux Newbie Guide RSS feed "   
+ xmlUrl="https://linuxnewbieguide.org/feed/" type="rss" />   
+ <outline text="ThisHosting.Rocks RSS feed "   
+ xmlUrl="https://thishosting.rocks/feed/" type="rss" />   
+ <outline text="Tips on UNIX RSS feed "   
+ xmlUrl="http://feeds.feedburner.com/tipsonunix" type="rss" />   
+ <outline text="Travis Bonfigli | Youtube RSS feed "   
+ xmlUrl="https://www.youtube.com/feeds/videos.xml?user=travispbonfigli1969" type="rss" />   
+ <outline text="Trend Oceans RSS feed "   
+ xmlUrl="https://trendoceans.com/feed/" type="rss" />   
+ <outline text="TutoriaLinux - Dave C | Youtube RSS feed "   
+ xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvA_wgsX6eFAOXI8Rbg_WiQ" type="rss" />   
+ <outline text="UX Techno RSS feed "   
+ xmlUrl="http://feeds.feedburner.com/linuxroutesFeed" type="rss" />   
+ <outline text="Xmodulo RSS feed "   
+ xmlUrl="https://www.xmodulo.com/feed" type="rss" />   
+ <outline text="blackMORE Ops - Linux, InfoSec, Hacking  RSS feed "   
+ xmlUrl="https://www.blackmoreops.com/feed/" type="rss" />   
+ <outline text="itsfoss.net RSS feed "   
+ xmlUrl="https://www.itsfoss.net/feed/" type="rss" />   
+ <outline text="nixCraft — Linux Tips, Hacks, Tutorials, And Ideas In Blog RSS feed "   
+ xmlUrl="https://www.cyberciti.biz/feed/" type="rss" />  
+
+        </outline>
+    </body>
+</opml>
